@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "65xx")(type "KiCad")(uri "${KIPRJMOD}/65xx.kicad_sym")(options "")(descr ""))
+  (lib (name "ds1813")(type "KiCad")(uri "${KIPRJMOD}/ds1813.kicad_sym")(options "")(descr ""))
+  (lib (name "lcd")(type "KiCad")(uri "${KIPRJMOD}/lcd.kicad_sym")(options "")(descr ""))
+)
