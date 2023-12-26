@@ -4,6 +4,13 @@
 
   (paper "A3")
 
+  (title_block
+    (title "CaveBoard")
+    (date "2023-12-16")
+    (rev "v1")
+    (company "Андерсон (https://www.youtube.com/@space.caveman)")
+  )
+
   (lib_symbols
     (symbol "65xx:W65C02SxP" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (at -10.16 35.56 0)
