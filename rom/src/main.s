@@ -40,6 +40,8 @@ main:
         STA LCD_CMD
         JSR lcd_busy
 
+.include "snake.s"
+
         ; Вивести текст на екран
         LDX #0
     @next:
